@@ -1,0 +1,46 @@
+feedback,analysis
+I feel undervalued and rarely receive feedback from my manager.,"```json
+{
+    ""Sentiment"": ""Negative"",
+    ""Risk Level"": ""High"",
+    ""Key Concerns"": ""Feeling undervalued, lack of feedback from manager."",
+    ""Suggested Strategy"": ""Immediate manager intervention required. Schedule a one-on-one meeting to discuss employee's concerns. Implement a performance feedback plan with regular checkpoints (e.g., weekly or bi-weekly). Explore opportunities for recognition and professional development. Consider mentorship program to provide additional support and guidance. Document all actions taken and follow up regularly to monitor employee satisfaction.""
+}
+```
+"
+I really enjoy working here. My team is supportive and helpful.,"```json
+{
+    ""Sentiment"": ""Positive"",
+    ""Risk Level"": ""Low"",
+    ""Key Concerns"": ""None apparent from the provided feedback."",
+    ""Suggested Strategy"": ""Maintain current positive environment. Continue to foster teamwork and support. Periodically check-in to ensure continued satisfaction and proactively address any emerging concerns.""
+}
+```
+"
+I'm considering leaving because there's no clear path for promotion.,"```json
+{
+    ""Sentiment"": ""Negative"",
+    ""Risk Level"": ""High"",
+    ""Key Concerns"": ""Lack of clear career progression/promotion opportunities."",
+    ""Suggested Strategy"": ""Immediately schedule a meeting with the employee and their manager to discuss their career goals and potential paths for promotion within the company.  Explore opportunities for skill development and training that could prepare them for future roles. If a promotion isn't immediately possible, create a detailed development plan with specific milestones and timelines for review.  Regular check-ins and mentorship opportunities could also help address their concerns and demonstrate a commitment to their career growth.  If possible, offer opportunities to lead projects or take on new responsibilities to showcase their abilities. Clearly communicate the company's promotion process and criteria.""
+}
+```
+"
+The workload is manageable and the projects are interesting.,"```json
+{
+    ""Sentiment"": ""Positive"",
+    ""Risk Level"": ""Low"",
+    ""Key Concerns"": ""None immediately apparent. Continued monitoring is always advisable."",
+    ""Suggested Strategy"": ""Continue to provide interesting projects and maintain a manageable workload. Publicly acknowledge and appreciate the positive feedback to reinforce desired behaviors and create a positive team environment. Consider exploring opportunities for growth and development to further enhance job satisfaction, even if not explicitly requested.""
+}
+```
+"
+I'm dissatisfied with the current leadership and communication.,"```json
+{
+    ""Sentiment"": ""Negative"",
+    ""Risk Level"": ""Medium"",
+    ""Key Concerns"": ""Dissatisfaction with leadership and communication."",
+    ""Suggested Strategy"": ""1. **Address Concerns Directly:** Schedule a private conversation with the employee to understand the specifics of their dissatisfaction. Ask for concrete examples of leadership behaviors and communication practices that are problematic.\n2. **Investigate Leadership Practices:** Explore the employee's concerns through other channels. Consider 360-degree feedback or anonymous surveys for the relevant leaders to identify potential patterns of behavior that need improvement.\n3. **Improve Communication Channels:** Review current communication strategies within the team/department. Are there regular team meetings? Are expectations clearly communicated? Are there opportunities for two-way feedback?\n4. **Leadership Training:** If leadership practices are identified as needing improvement, consider providing leadership training focused on communication, active listening, and empathy.\n5. **Transparency and Follow-up:**  After taking action, communicate back to the employee (and the team, if appropriate) about the steps being taken to address their concerns.  Check in periodically to gauge whether the changes are having a positive impact. Ensure that this follow-up is done in a confidential and supportive manner. Emphasize the value the employee brings to the organization.""
+}
+```
+"
