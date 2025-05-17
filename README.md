@@ -31,3 +31,5 @@ This project automates two critical HR processes using AI and Large Language Mod
 Install dependencies:
 ```bash
 pip install openai pdfplumber python-docx pandas
+## Colab Link
+https://colab.research.google.com/drive/1HVML_67tFR7tWR721R7ho1uZf4Bui36-?usp=sharing
